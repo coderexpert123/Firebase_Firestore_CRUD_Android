@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@color/black"
+    android:layout_marginTop="10dp"
+    android:layout_height="wrap_content">
+
+
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:orientation="vertical"
+
+       android:layout_height="wrap_content">
+       <TextView
+           android:layout_width="match_parent"
+           android:textColor="@color/white"
+           android:padding="16sp"
+           android:id="@+id/name1"
+           android:text="Name :"
+           android:layout_height="wrap_content">
+
+       </TextView>
+
+
+       <TextView
+           android:layout_width="match_parent"
+           android:textColor="@color/white"
+           android:id="@+id/email1"
+           android:text="Email: "
+           android:padding="16sp"
+           android:layout_height="wrap_content">
+
+       </TextView>
+   </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="163dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:padding="10dp">
+
+        <Button
+            android:id="@+id/update"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Update">
+
+        </Button>
+
+        <Button
+            android:id="@+id/delete"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:backgroundTint="#F10000"
+            android:text="Delete">
+
+        </Button>
+    </LinearLayout>
+
+</LinearLayout>

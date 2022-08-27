@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "248917365040",
+    "project_id": "flearn-f9cf5",
+    "storage_bucket": "flearn-f9cf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248917365040:android:ee4b9b2d706b3f7b23f8f5",
+        "android_client_info": {
+          "package_name": "com.singh.fl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "248917365040-gsnn0m2n71235kp5ghppp91fp8ld7q0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBawNXr1rNmDZDmf3S2kjQDZ_eHnl8r5Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "248917365040-gsnn0m2n71235kp5ghppp91fp8ld7q0n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
